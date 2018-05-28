@@ -1,6 +1,20 @@
-# Elewa Academy
+# The Curriculum
 
-Welcome.  Follow things roughly in order, but do go back and review.  You can visit [the curriculum wiki](https://github.com/elewa-academy/curriculum/wiki) for more usage tips.
+```
+Coding is not about code.  Coding is ...
+    * Communication
+    * A cognitive tool
+    * Practical problem solving
+```
+
+
+These carefully designed projects form the core of our Software Development curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  You won't learn any particular framework in depth. Instead, you will explore the fundamental design principles behind popular frameworks while building your own full-stack application fron scratch using Vanilla JavaScript.
+
+Each project is meant to be just a starting point.  After you've finished the requirements and you've understood the main learning objectives, take the simple base provided and make it something awesome.
+
+Our projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other popular framework or library.  There are already thousands of great places to learn those things.  We link to our favorites in [General Resources](https://github.com/elewa-academy/General-Resources/wiki), and directly from the projects where you'll need them.
+
+To study the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
 
 0. [Precourse](./0-precourse.md)  
 1. [using code](./1-using-javascript.md)
@@ -11,6 +25,8 @@ Welcome.  Follow things roughly in order, but do go back and review.  You can vi
 6. [clean architecture](./6-clean-architecture.md)
 7. [frameworks](./7-frameworks.md)
 8. [final project](./8-final-project.md)
+
+You can visit [the curriculum wiki](https://github.com/elewa-academy/curriculum/wiki) for more usage tips.
 
 ___
 
