@@ -3,7 +3,7 @@
 1. My [JavaScript Reference](https://github.com/jankelearning/javascript)
 2. Code Whispering:
     1. [JS Step-Throughs](https://github.com/jankelearning/js-step-throughs)
-    2. [Parsons Problems](https://github.com/jankelearning/parsons)
+    2. [Parsons Problems](https://github.com/elewa-academy/parsons)
     3. [Code Completion](https://github.com/jankelearning/code-completion)
     4. [Worked Examples](https://github.com/jankelearning/worked-examples)
     5. [Tracing Execution](https://github.com/jankelearning/tracing-execution)
