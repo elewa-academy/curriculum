@@ -16,7 +16,7 @@ Our projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other 
 
 To study the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
 
-0. [Precourse](./0-precourse.md)  
+0. [Precourse](https://elewa-academy.github.io/Precourse)  
 1. [using code](./1-using-javascript.md)
 2. [dev 101](./2-dev-101)
 3. [modular design](./3-modular-design.md)
