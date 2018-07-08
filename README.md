@@ -19,14 +19,14 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 ___
 
 0. [Precourse](https://elewa-academy.github.io/elewa-academy/Precourse):
-  * Learn what it's like to be a developer, establish effective study skills, and take your first steps into JavaScript, HTML & CSS. Finally introduce yourself to the open-source world with a basic Bootstrap portfolio hosted on GitHub Pages.
+  Learn what it's like to be a developer, establish effective study skills, and take your first steps into JavaScript, HTML & CSS. Finally introduce yourself to the open-source world with a basic Bootstrap portfolio hosted on GitHub Pages.
 1. [JS Fundamentals](https://github.com/elewa-academy/js-fundamentals)
   * Take a deeper dive into JS by learning to draw and predict what JavaScript does with each step as it executes your code.
 2. Local/Remote:
   * Continue to practice JavaScript by creating coding challenges for your peers to fork and complete, all the while familiarizing yourself with the professional development environment: Visual Studio Code, Chrome/ChromeDev, Terminal, Git & GitHub.
 3. Code Whispering:
   * Explore advanced code tracing & debugging techniques like chunking, tracing, asserting, and the different roles variables can play in code.  By the end of this segment you will be one with your code and the ChromeDev Console.  
-4. Using JavaScript:
+4. _Using JavaScript_:
   * Reduced to the most simplistic explanation, algorithms just transform data from an initial state to a final state.  In _Using JavaScript_ you'll take your first steps into developerhood by learning a strategy-first methdology for mapping real-world challenges into code-based solutions and back again.
 5. Dev 101:
   * Algorithms make lousy applications, they don't listen to you. Embed your algorithms into interactive _event-driven_ applications and lay the groundworks for the beginning of your FullStack adventure!
