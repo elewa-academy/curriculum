@@ -35,7 +35,7 @@ ___
 13. __Frameworks__: So far you've had to build almost everything from scratch. Hopefully you've noticed how many times you wrote the same code, over and over again.  Frameworks exist to automate these repetitive parts of building your application.  Pro: simplicity.  Con: rigidity.  In this project you'll put together everything you've learned in this course by building your own FullStack framework.
 14. __Final Project__: Specialize!  Plan, design, implement and deploy a project of your choosing.  This is your chance to explore popular tools, libraries and frameworks.  Take this opportunity to strengthen your strengths and showcase your skillzz.
 
-Visit [the curriculum wiki](https://github.com/elewa-academy/curriculum/wiki) for more info on how to follow this course independently.
+Visit [the General Resources wiki](https://github.com/elewa-academy/General-Resources/wiki/Using-This-Curriculum) for more info on how to follow this course independently.
 
 ___
 
