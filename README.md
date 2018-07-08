@@ -14,27 +14,51 @@ Each project is meant to be just a starting point.  After you've finished the re
 
 Our projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other popular framework or library.  There are already thousands of great places to learn those things.  We link to our favorites in [General Resources](https://github.com/elewa-academy/General-Resources/wiki), and directly from the projects where you'll need them.
 
-To study the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
-
-0. [Precourse](./0-precourse.md)  
-1. [using code](./1-using-javascript.md)
-2. [dev 101](./2-dev-101)
-3. [modular design](./3-modular-design.md)
-4. [collaboration](./4-collaboration.md)
-5. [design patterns](./5-design-patterns.md)
-6. [clean architecture](./6-clean-architecture.md)
-7. [frameworks](./7-frameworks.md)
-8. [final project](./8-final-project.md)
-
-You can visit [the curriculum wiki](https://github.com/elewa-academy/curriculum/wiki) for more usage tips.
+To study the projects we recommend you fork+clone the project repos.  This will allow you to take notes, run/study sourcecode, and modify samples directly from your computer. (And a little extra practice with Git never hurt anyone!)
 
 ___
 
-More useful & fun things:
+0. [Precourse](https://elewa-academy.github.io/elewa-academy/Precourse):
+  * Learn what it's like to be a developer, establish effective study skills, and take your first steps into JavaScript, HTML & CSS. Finally introduce yourself to the open-source world with a basic Bootstrap portfolio hosted on GitHub Pages.
+1. [JS Fundamentals](https://github.com/elewa-academy/js-fundamentals)
+  * Take a deeper dive into JS by learning to draw and predict what JavaScript does with each step as it executes your code.
+2. Local/Remote:
+  * Continue to practice JavaScript by creating coding challenges for your peers to fork and complete, all the while familiarizing yourself with the professional development environment: Visual Studio Code, Chrome/ChromeDev, Terminal, Git & GitHub.
+3. Code Whispering:
+  * Explore advanced code tracing & debugging techniques like chunking, tracing, asserting, and the different roles variables can play in code.  By the end of this segment you will be one with your code and the ChromeDev Console.  
+4. Using JavaScript:
+  * Reduced to the most simplistic explanation, algorithms just transform data from an initial state to a final state.  In _Using JavaScript_ you'll take your first steps into developerhood by learning a strategy-first methdology for mapping real-world challenges into code-based solutions and back again.
+5. Dev 101:
+  * Algorithms make lousy applications, they don't listen to you. Embed your algorithms into interactive _event-driven_ applications and lay the groundworks for the beginning of your FullStack adventure!
+6. Modular Design:
+  * Take _Separation of Concerns_ to the extreme with the Model-View-Controller-Logic-Handler architecture.  Explore testing, progressive development, dependency injection, data modeling, and multi-environment development.
+7. Collaboration:
+  * No developer is an island. Practice the entire collaborative _Solution Design_ process from problem definition & exploration to launch & maintenance.
+8. FullStack:
+  * Make the jump to true FullStack applications by building Restful & Logic-Based services behind HTTP endpoints using Express & Axios.  Start your journey to FrontEnd apps by exploring the relationship between local and global state.
+9. Design Patterns:
+  * Combine your knowledge of JavaScript & application design to create your own configurable modules.  This will stretch your understanding of both app development and pure JS to the limits.  
+10. CLEAN Architecture:
+  * "Apps are like onions."  - (probably Shrek).
+11. Frontend Apps:
+  * Keeping Local State (data stored in the browser) synced with Global State (data stored in the BackEnd) is no simple task.  This introduction to common design patterns for single page applications will set you off in the right direction.
+12. User Accounts:
+  * Create a continuous user experiences with sessions, cookies and authentication.
+13. Frameworks:
+  * So far you've had to build almost everything from scratch. Hopefully you've noticed how many times you wrote the same code, over and over again.  Frameworks exist to automate these repetitive parts of building your application.  Pro: simplicity.  Con: rigidity.  In this project you'll put together everything you've learned in this course by building your own FullStack framework.
+14. Final Project:
+  * Specialize!  Plan, design, implement and deploy a project of your choosing.  This is your chance to explore popular tools, libraries and frameworks.  Take this opportunity to strengthen your strengths and showcase your skillzz.
+
+
+Visit [the curriculum wiki](https://github.com/elewa-academy/curriculum/wiki) for more info on how to follow this course independently.
+
+___
+
+Useful & fun things:
 
 * [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
-* [Annotated Code To Study]()
 * [Micro Projects](https://elewa-academy.github.io/micro-projects/)
+* [Meetup Guide]()
 
 ___
 ___
