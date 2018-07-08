@@ -18,7 +18,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 ___
 
-0. __[Precourse](https://elewa-academy.github.io/elewa-academy/Precourse)__: Learn what it's like to be a developer, establish effective study skills, and take your first steps into JavaScript, HTML & CSS. Finally introduce yourself to the open-source world with a basic Bootstrap portfolio hosted on GitHub Pages.
+0. __[Precourse](https://elewa-academy.github.io/Precourse)__: Learn what it's like to be a developer, establish effective study skills, and take your first steps into JavaScript, HTML & CSS. Finally introduce yourself to the open-source world with a basic Bootstrap portfolio hosted on GitHub Pages.
 1. __[JS Fundamentals](https://github.com/elewa-academy/js-fundamentals)__: Take a deeper dive into JS by learning to draw and predict what JavaScript does with each step as it executes your code.
 2. __Local/Remote__: Continue to practice JavaScript by creating coding challenges for your peers to fork and complete, all the while familiarizing yourself with the professional development environment: Visual Studio Code, Chrome/ChromeDev, Terminal, Git & GitHub.
 3. __Code Whispering__: Explore advanced code tracing & debugging techniques like chunking, tracing, asserting, and the different roles variables can play in code.  By the end of this segment you will be one with your code and the ChromeDev Console.  
