@@ -49,7 +49,6 @@ ___
 14. Final Project:
   * Specialize!  Plan, design, implement and deploy a project of your choosing.  This is your chance to explore popular tools, libraries and frameworks.  Take this opportunity to strengthen your strengths and showcase your skillzz.
 
-
 Visit [the curriculum wiki](https://github.com/elewa-academy/curriculum/wiki) for more info on how to follow this course independently.
 
 ___
